@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="spring-aop-5.2.0.RELEASE-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-aop-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-aspects-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-beans-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-context-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-context-indexer-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-context-support-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-core-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-expression-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-instrument-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-jcl-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-jdbc-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-jms-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-messaging-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-orm-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-oxm-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-test-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-tx-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-web-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-webflux-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-webmvc-5.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-websocket-5.2.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-aop-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-aspects-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-beans-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-context-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-context-indexer-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-context-support-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-core-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-expression-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-instrument-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-jcl-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-jdbc-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-jms-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-messaging-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-orm-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-oxm-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-test-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-tx-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-web-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-webflux-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-webmvc-5.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-websocket-5.2.0.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-aop-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-aspects-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-beans-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-context-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-context-indexer-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-context-support-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-core-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-expression-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-instrument-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-jcl-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-jdbc-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-jms-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-messaging-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-orm-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-oxm-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-test-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-tx-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-web-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-webflux-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-webmvc-5.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring jar files/spring-websocket-5.2.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
